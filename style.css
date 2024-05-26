@@ -1,0 +1,116 @@
+body {
+    background-color: pink;
+}
+
+header {
+    height: 350px;
+    background-image: url(img/hakerbonzo-gif.gif);
+    background-size: 20%;
+    clear: both;
+}
+
+header h1 {
+    color: white;
+    margin: auto;
+    text-align: center;
+    padding-top: 150px;
+    text-shadow: 3px 3px black;
+    font-family: Impact;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.opis {
+    height: 900px;
+}
+
+.wstęp {
+    width: 900px;
+    margin: auto;
+    background-color: palevioletred;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Segoe UI';
+}
+
+#szok {
+    float: left;
+    width: 485px;
+    height: 400px;
+}
+
+#pog {
+    float: right;
+    height: 400px;
+    width: 485px;
+}
+
+#bonzo {
+    text-align: center;
+    font-size: 60px;
+    padding-top: 60px;
+    text-shadow: 1px 1px 5px black;
+}
+
+.r {
+    color: red;
+}
+
+.o {
+    color: orange;
+}
+
+.y {
+    color: yellow;
+}
+
+.g {
+    color: green;
+}
+
+.b {
+    color: aqua;
+}
+
+.b2 {
+    color: blue;
+}
+
+.p {
+    color: purple;
+}
+
+.haker {
+    height: 228px;
+    background-image: url(img/flaga.png);
+    margin-top: -60px;
+    background-size: 370px;
+}
+
+.autor {
+    height: 400px;
+    width: 1000px;
+    margin: auto;
+    background-color: palevioletred;
+    margin-top: -40px;
+    text-align: center;
+}
+
+#kwadrat {
+    font-size: 30px;
+    padding-top: 40px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+}
+
+#kwadrat2 {
+    font-size: 60px;
+    margin-top: -15px;
+    font-family: 'Segoe UI';
+}
+
+#prof{
+    height: 200px;
+    margin: -50px;
+}
